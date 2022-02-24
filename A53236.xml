@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Blessed Paul's tryal and triumph in a sermon upon the death of Mrs. Elizabeth King / by John Oakes ...</title>
+            <author>Oakes, John, d. 1689?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53236</idno>
+            <idno type="STC">Wing O18</idno>
+            <idno type="STC">ESTC R17578</idno>
+            <idno type="EEBO-CITATION">12547195</idno>
+            <idno type="OCLC">ocm 12547195</idno>
+            <idno type="VID">63093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63093)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 326:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Blessed Paul's tryal and triumph in a sermon upon the death of Mrs. Elizabeth King / by John Oakes ...</title>
+                  <author>Oakes, John, d. 1689?</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Richardson, for Tho. Cockeril ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>King, Elizabeth, 1675 or 6-1689?</term>
+               <term>Funeral sermons.</term>
+               <term>Death --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63093:1" rendition="simple:additions"/>
+            <p>Bleſſed <hi>PA<g ref="char:V">Ʋ</g>L</hi>'s Tryal and Triumph: IN A SERMON Upon the DEATH of Mrs. <hi>ELIZABETH KING.</hi>
+            </p>
+            <p>By <hi>JOHN OAKES,</hi> Miniſter of the Goſpel; being the laſt Funeral Sermon that ever he Preacht, before Himſelf was <hi>ſnatcht</hi> away to Glory.</p>
+            <q>
+               <bibl>MATTHEW xxiv. 44.</bibl>
+               <p>Therefore be ye alſo ready; for in ſuch an hour as you think not, the Son of Man cometh.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Richardſon,</hi> for <hi>Tho. Cockeril,</hi> at the <hi>Three Legs</hi> in the <hi>Poultrey,</hi> over againſt the <hi>Stocks-Market,</hi> 1689.</p>
+            <pb facs="tcp:63093:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63093:2"/>
+            <head>Bleſſed <hi>Paul</hi>'s Tryal and Triumph. A <hi>Funeral Sermon</hi> ON 2 TIMOTHY, iv. 7, 8.
+<q>I have fought a good Fight, I have finiſhed my Courſe, I have kept the Faith.</q>
+               <q>Henceforth there is laid up for me a Crown of Righteouſneſs, which the Lord the Righteous Judge ſhall give me at that day, and not to me only, but unto all them alſo that love his appearing.</q>
+            </head>
+            <p>HOW pertinent and ſeaſonable the Words I have now read, are for the ſolemn occaſion we are met about; is obvious to every Eye; although I muſt tell you it was not the Object of my own choice, but pitched upon by the Deceaſed, whoſe Funeral I am now to Comme<g ref="char:EOLhyphen"/>morate. My Text is very copious, and of too great an ex<g ref="char:EOLhyphen"/>tent
+<pb n="2" facs="tcp:63093:3"/>
+to admit at preſent of any Preface, or to permit me to give you any account of the Epiſtle, nor ſcarce ſo much time as to caſt an Eye upon the Context. Only in a word the time drew nigh when this Bleſſed Apoſtle <hi>Paul</hi> was to ſuffer Martyrdom; and thereby Seal his Teſtimony to thoſe Goſpel Truths, which he had preached and profeſſed; and that by the effuſion of his Blood, and the laying down of his Life: The Enemy had got him in their Pound; confin'd him in their Priſon; and ſtill he was every day expecting and waiting when the Writ ſhould be ſign'd for his Execution, as he tells us, <hi>verſe</hi> 6. <hi>I am now ready to be offered, and the time of my departure is at hand.</hi> With this he acquaints <hi>Timothy,</hi> to whom he dedicates this Epiſtle not by way of Complaint, but by way of Encouragement; he being as ready to be offered up at the Will and Call of God; as they were ready to execute their Rage and Malice againſt him: Having told us long be<g ref="char:EOLhyphen"/>fore, <hi>I am ready not to be bound only, but alſo to dye at Jeruſalem for</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 13.</note> 
+               <hi>the Name of the Lord Jeſus.</hi> What were the Cordials that ſuppor<g ref="char:EOLhyphen"/>ted him in this fainting ſeaſon, and enabled him to look Death (though preſented in a very ghaſtly dreſs) in the face with Comfort and Confidence; my Text acquaints you, <hi>I have fought a good fight,</hi> &amp;c. In which words you have theſe two general parts.</p>
+            <p>Firſt, <hi>Paul</hi>'s Retroſpect, <hi>viz.</hi> his ſerious reflection upon the by paſt Courſe of his Life; that is, ever ſince he had proper<g ref="char:EOLhyphen"/>ly lived, ever ſince he had been quickned by the renewing Grace of God's Spirit<hi>:</hi> For all the time we remain in an unregenerate State is not time lived, but time loſt. <hi>I have fought a good fight, I have finiſhed my Courſe, I have kept the Faith:</hi> This was the report that <hi>Paul</hi>'s Well inlightned Con<g ref="char:EOLhyphen"/>ſcience made upon this ſerious review and enquiry: The Re<g ref="char:EOLhyphen"/>flection upon which fil'd his Heart with Divine Conſolation. Before I proceed to the main point I intend, I ſhall briefly offer two Notes to your ſerious Conſideration.</p>
+            <p n="1">1. That the apprehenſion of the near approaches of Death doth ordinarily occaſion, nay neceſſitate Men, whether good or bad to take a ſtrict ſurveigh of their by paſt Life; then
+<pb n="3" facs="tcp:63093:3"/>
+Men think and enquire of themſelves what they have been doing; and whether they are going? I ſay ordinarily it is ſo<hi>:</hi> Some indeed are judiciouſly hardned and given up by God to a blind mind, and to a feared Conſcience that they are paſt feeling: Living and dying like Beaſts, without any ſight or ſence of their Sin here, or their Miſery hereafter; whoſe Eyes are not opened till they drop into Eternal Flames. Ex<g ref="char:EOLhyphen"/>cept in ſuch a caſe, not to be mentioned without horror, all Men not accidentally incapacitated by the violence of ſome bodily Diſtemper, will at Death be upon a review.</p>
+            <p n="2">2. Note hence, that according to the report that a well inform'd Conſcience gives in at a dying hour, ſo it will fill and furniſh the Soul either with Triumph or Trouble, with Joy or Sorrow: If Conſcience well inſtructed bears Witneſs for it, that it hath done its work, diſpatched the buſineſs that God ſent it into the World for; then will it be fill'd with Songs in the Night, then will <hi>it lift up its head, knowing the</hi> 
+               <note place="margin">Luke 21. 28.</note> 
+               <hi>day of its redemption draws nigh.</hi> Then next to Jeſus Chriſt no ſuch Friend as Death: Then will it long to be diſſolved to be with Chriſt. <hi>Our rejoycing is this, the Teſtimony of our Con<g ref="char:EOLhyphen"/>ſcience,</hi> 
+               <note place="margin">2 Cor. 1. 12.</note> 
+               <hi>that in ſimplicity and godly ſincerity, not with fleſhly wiſ<g ref="char:EOLhyphen"/>dom, but by the Grace of God we have had our Converſation in the World.</hi> Self-examination, and ſerious Reflection is a Duty (though attended with great advantage) that few Men un<g ref="char:EOLhyphen"/>derſtand, but wholly neglect; or at beſt are very ſlight and ſuperficial in the performance of. Moſt run away with the firſt over-haſty reports that may be reſults from a blind car<g ref="char:EOLhyphen"/>nal ſenſual heart; taking all things of that Nature upon truſt, rather than put themſelves to the trouble of a ſerious Tryal, but this will not alwayes do; when Death hath clapt an Ar<g ref="char:EOLhyphen"/>reſt upon thee, and thou ſeeſt that thou muſt in good ear<g ref="char:EOLhyphen"/>neſt put thy head into another World; then matters re<g ref="char:EOLhyphen"/>lating to thy ſelf and future ſtate, muſt paſs through a finer ſieve, and a more ſevere ſcrutiny. Oh that I could more throughly perſwade my ſelf and all you that hear me this day, to be more frequent and induſtrious in this matter now, and never leave till the great buſineſs betwixt God and our Souls be ſo throughly and comfortably ſtated; that it may
+<pb n="4" facs="tcp:63093:4"/>
+remain as a laſting impreſſion, when all our ſelf-flattering glaſſes ſhall be broken in pieces; and all thoſe falſe meaſures which we have taken of our Spiritual State ſhall vaniſh and diſap<g ref="char:EOLhyphen"/>pear. Now may be any thing will ſtop the Mouth of Conſci<g ref="char:EOLhyphen"/>ence, and juſtifie ſuch a concluſion concerning our welfare, that we are Proteſtants, that we have been Baptized, that we are Members of this or that particular Church, that we have been juſt to all, or that we have been injurious to none, that we have been no Perſecutors, that we have been charita<g ref="char:EOLhyphen"/>ble to the Poor, that we have kept our Church, that we have ſaid our Prayers; and if after all this we come ſhort of Heaven, then God help us (ſay ſome) though all this while totally Strangers to the work of Regeneration and Heart-Re<g ref="char:EOLhyphen"/>novation. For God's ſake Sirs, Conſider, and conſider it in time; what Chriſt ſpeaks, <hi>Except your Righteouſneſs ſhall</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 5. 20.</note> 
+               <hi>exceed the Righteouſneſs of the Soribes and Phariſees, ye ſhall in no caſe enter into the Kingdom of Heaven.</hi> And in ano<g ref="char:EOLhyphen"/>ther place, <hi>Verily, verily, I ſay unto thee, except a Man be born</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 3. 3.</note> 
+               <hi>again, ſee cannot be the Kingdom of God.</hi> Beloved, I beſeech you, ſee whether that which is ſufficient to ſtop the Mouth of Conſcience how whileſt you live in this hurry, will make you lie at eaſe then when you come to a Death-Bed. But I muſt proceed.</p>
+            <p>Secondly, You have the Apoſtles Proſpect, <hi>viz.</hi> his looking forward, where he opens a freſh Spring, whence he draws his Comfort and Confidence at this time, when he was making his entry into the dark valley of the ſhades of Death; and then conſiders what he had in expectation on the other ſide the Grave. <hi>Henceforth there is laid up for me a Crown of Righteouſ<g ref="char:EOLhyphen"/>neſs, which the Lord the Righteous Judge ſhall give me at that day; and not to me only, but unto all them alſo that love his ap<g ref="char:EOLhyphen"/>pearing.</hi> This was the Joy that was ſet before the Eye of <hi>Paul</hi>'s Faith. What appeared to his ſence muſt needs be ter<g ref="char:EOLhyphen"/>rible, and terrifying to Nature. Death when it comes clo<g ref="char:EOLhyphen"/>thed with the moſt deſirable Circumſtances, muſt needs make Nature ſtartle at it, Nature will certainly recoil; and as ſuch cannot bid it welcome. No thoſe that ſeem moſt to
+<pb n="5" facs="tcp:63093:4"/>
+court it, that look and long for it, and with ſubmiſſion to Divine Pleaſure have great reaſon to do ſo; yet know it is never ſo for its own ſake, but for the ſake of ſomething that it is introductive to; as appears from that of the Apoſtle af<g ref="char:EOLhyphen"/>ter he had given teſtimony of his Faith, both as to the reality of the future ſtate of Felicity, and alſo of the aſſurance that he had attained of his perſonal and particular intereſt in that ſtate; as you read 2 <hi>Cor.</hi> 5. 1. <hi>For we know that if our Earth<g ref="char:EOLhyphen"/>ly Houſe of this Tabernacle were diſſolved, we have a building of God, a Houſe not made with Hands, Eternal in the Heavens.</hi> The Conſiderations of which, together with the preſent in<g ref="char:EOLhyphen"/>convenience, that did attend their preſent Habitation here below; made them give many a long look, and fetch many a heavy groan to be gone: And no wonder. Which of you that dwell in a pitiful poor mean tottering Cottage, that know not but every day it may drop about your Ears; that were ſure that you had a Pallace richly furniſhed for you, that ſtood ready to receive you, would not do the like? Indeed if you had made no ſuch Proviſion, but might expect when ever you were turned out, you muſt lye abroad expoſed to Storms and Tempeſt, no wonder then if you (notwithſtanding inconve<g ref="char:EOLhyphen"/>niences) were loath to depart. Truly the caſe is much thus betwixt Sinners and Saints, no wonder you that are yet in a ſtate of alienation from God; that would never be perſwa<g ref="char:EOLhyphen"/>ded to look after any further nor higher happyneſs, than what reſults from a confluence of Creature Enjoyments. I ſay no wonder that Death coming as a Meſſenger to call you from hence, to ſee you cleaving and clinging ſo faſt about the Creature, to find you ſending poſt for this and the tother Phyſician, and for this and the other Friend; crying out as that young Man once did, when he was grapling with the pangs of Death; <hi>inducias uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad mane,</hi> Lord tarry till the Morning: When he knew not whether he was going, but ſaw he muſt be expoſed to the intolerable, and unavoi<g ref="char:EOLhyphen"/>dable ſtorms of God's Wrath; but for you Believers, who by an Eye of Faith may ſee the Heavens opened, and Everlaſting Manſions of Glory prepared for you, and an Honourable Convoy ſent to conduct you into the bleſſed Preſence of a
+<pb n="6" facs="tcp:63093:5"/>
+Reconciled God, it would be a reproach to hang back; yet I obſerve what the fore-mentioned Apoſtle takes notice of: That when they came cloſely to conſider the dark and nar<g ref="char:EOLhyphen"/>row entry of Death, that they were to paſs through into the poſſeſſion of this Land of Light; when they conſidered the trouble they muſt be expoſed to in their removal from this Tabernacle on Earth, to their glorious Temple in Heaven<g ref="char:punc">▪</g> It put them to the ſhrug, and occaſion'd a Conteſt betwixt Fleſh and Spirit in this matter, <hi>verſe</hi> 4. <hi>We that are in this Tabernacle do groan being burdened; not for that we would be un<g ref="char:EOLhyphen"/>clothed, but clothed upon; that mortality might be ſwallowed up of Life.</hi>
+            </p>
+            <p>There is a double groan that God's people often fetch in this hour, the one of Nature, the other of Grace.</p>
+            <p>That of Nature ariſes from the apprehenſion and fear of approaching Death, together with the afflictive Evils that at<g ref="char:EOLhyphen"/>tend it. The other of Grace, expreſſive of thoſe earneſt deſires of that future ſtate of Bliſs and Glory, (whereof they are ſuppoſed to have ſome preſent prelibations) to be diſſol<g ref="char:EOLhyphen"/>ved, and to be with Chriſt, which is far better, than the beſt ſtate on Earth. Now when the groans of Grace are louder than the groans of Nature, as ſometimes they are; then Death is bid welcom, and they can heartily cry out, as this Gracious Soul did<hi>: Come Lord Jeſus, come quickly, and why are thy Chariot wheels ſo long a coming?</hi>
+            </p>
+            <p>I know much time, and more than can be allow'd for this exerciſe, might be ſpent, and that profitably too in the explication of the Contents of theſe two Verſes<hi>:</hi> The han<g ref="char:EOLhyphen"/>dling of which would ſwell rather into a large Treatiſe, than be confin'd to the limits of a ſingle Sermon. But that I may fulfil the Will of the Deceaſed, that gave me no liberty<g ref="char:punc">▪</g> to ſpeak to any particular branch of it: but repeated the whole as my ſubject; and yet not be offenſive by too great a prolixity to the Living, I ſhall with all poſſible brevity that may be conſiſtent with perſpecuity, give you little more than a ſhort Paraphraſe upon the whole; waving what ever might be judged ornamental to my Diſcourſe, as not being ſo ſea<g ref="char:EOLhyphen"/>ſonable for ſuch a ſerious Diſpenſation; where Death and
+<pb n="7" facs="tcp:63093:5"/>
+Eternity are ſo immediately in view, and we are to look up<g ref="char:EOLhyphen"/>on each other as paſſing and poſting to Everlaſting Manſions.</p>
+            <p>In the words then conſider two more general parts:</p>
+            <p>Firſt, A Chriſtians Work faithfully perform'd, or a Belie<g ref="char:EOLhyphen"/>vers great buſineſs, upon which God hath ſent him into, and continues him in this World carefully diſpatched; and this expreſſed under ſeveral Metaphors relating to <hi>Paul</hi> both as a Chriſtian, in his perſonal and more private Capacity, and as a Miniſter of the Goſpel in his more publick Capacity, <hi>verſe</hi> 6. <hi>I have fought the good fight, I have finiſhed my courſe, I have kept the faith.</hi>
+            </p>
+            <p>Secondly, Here is a comfortable and well-grounded ex<g ref="char:EOLhyphen"/>pectation of the promiſed reward, as conſequential upon his finiſhing his work, and this with a particular application and appropriation to himſelf; though not without the ſame ſecu<g ref="char:EOLhyphen"/>rity to all others in the like caſe, and as ſuppoſed for the main in the ſame Spiritual Condition. <hi>Henceforth is laid up for me a Crown of Righteouſneſs,</hi> &amp;c.</p>
+            <p>I ſhall put both theſe together into the Doctrine or Pro<g ref="char:EOLhyphen"/>poſition, <hi>viz.</hi>
+            </p>
+            <p>Doct. <hi>That all thoſe, and only thoſe who have good evidences of their having done and diſpatched their great work and buſineſs God hath allotted for them in this World, can with comfort and confidence enſure to themſelves the expectation of the promiſed re<g ref="char:EOLhyphen"/>ward in the other World, at their Death, or day of Retribution.</hi>
+            </p>
+            <p>This is a plain and undoubted Truth, no well-grounded expectation of our Reward till we have firſt finiſhed our Work. Chriſt himſelf who was both a Son and a Servant, ſent by his Father into the World; had work appointed him to do, a work of the greateſt weight and importance that ever was put into the hands of any to diſpatch, the reparati<g ref="char:EOLhyphen"/>on of his Fathers Glory eclipſed by Man's Rebellion and Apo<g ref="char:EOLhyphen"/>ſtacy, and the Redemption and Salvation of all the Elect de<g ref="char:EOLhyphen"/>pended upon Chriſt's finiſhing this work; and a work to be done within a limited time; as may be inferred from what our Saviour ſpeaks. <hi>I muſt work the works of him that ſent me while</hi> 
+               <note place="margin">John 9. 4.</note>
+               <pb n="8" facs="tcp:63093:6"/>
+               <hi>it is day; the night cometh when no man can work.</hi> A work that had many works in it: Here was doing work, and here was ſuffering work; and upon his faithful diſcharge of this great work, a glorious Reward was inſured to Chriſt; and you may obſerve, that though the work he was ingaged in, was difficult and hard, too difficult for all the Angels in Hea<g ref="char:EOLhyphen"/>ven or Creatures on Earth to undertake: In the doing of which he met with inexpreſſible Diſcouragements and Oppo<g ref="char:EOLhyphen"/>ſitions, both from Friends and Enemies: And the reward he expected was a high and glorious reward, ſuch a maſſy Crown as could fit no Head but Chriſt's, which might well put him upon earneſt longing for it; as you ſee he did by what the Apoſtle tells us, <hi>Heb.</hi> 12. 2. ſpeaking of this Bleſſed Jeſus, <hi>Looking unto Jeſus, the Author and Finiſher of our Faith, who for the joy that was ſet before him endured the Croſs, deſpiſing the ſhame, and is ſet down at the right hand of God.</hi> Yet we never find that either the conſideration of the one, the diffi<g ref="char:EOLhyphen"/>culty of his work, or the conſideration of the other the beau<g ref="char:EOLhyphen"/>ty and brightneſs of his reward; did put him upon deſiring or expecting the poſſeſſion of his promiſed Glory, till he could ſay he had done his work; and then indeed you will ſee him addreſſing his Father in this manner. <hi>I have glorified thee on the Earth: I have finiſhed the work which thou gaveſt me to do:</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 17. 4, 5.</note> 
+               <hi>And now O Father glorifie thou me with thine own ſelf, with the Glory which I had with thee before the world was: q. d.</hi> I have done my work, and I expect my reward.</p>
+            <p>Truly thus it is in all our caſes<hi>:</hi> That God who hath ſent us into the World, and <hi>hath appointed our time, and limited our</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 14.</note> 
+               <hi>boundt beyond which we cannot paſs.</hi> This God hath alſo pre<g ref="char:EOLhyphen"/>ſcribed our work, what we are to do in this ſhort time al<g ref="char:EOLhyphen"/>lotted for us: He hath not ſent us hither only to gaze about us; or to feed and gratifie the carnal and ſenſual inclinations of a corrupt heart, in ſpending theſe precious hours in ſports and paſtimes. No, no, as God hath given us work to do, ſo he hath <hi>furniſhed us with talents to be improved</hi> for the Glory <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 25. 15.</note> of that God who gave us our beings: He hath committed the care <hi>of precious Souls, (one of which is more in value than</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 16. 26.</note> 
+               <hi>Ten Thouſand Worlds)</hi> to be recovered out of that lapſed and
+<pb n="9" facs="tcp:63093:6"/>
+loſt Eſtate into which they are fallen: He hath given his Word for our Direction, hath promiſed his Spirit for our help; he hath betruſted us with choice advantages and op<g ref="char:EOLhyphen"/>portunities for the facilitating of what work we have to do: <hi>He hath appointed a day for the calling us to an account,</hi> and a <note place="margin">Acts 17. 3</note> Judge to give forth a Righteous Retribution, according to what we have done in the Fleſh, whether it be good or evil: He hath propoſed and promiſed a bleſſed and glorious Reward; not as merited by our work, but as conſequential upon it, a Reward not of Debt but of meer Grace and Favour: He hath threatned an Everlaſting Puniſhment as the demerit of <hi>our neglect of that, great Salvation ſet before us:</hi> Cutting us off from <note place="margin">Heb. 2. 3.</note> all hopes of enjoying the former, and of eſcaping the latter, without finiſhing the work he hath given us to do. Theſe things are ſo evident in Scripture, that you whoſe lot is caſt under the Diſpenſation of theſe Divine Revelations cannot plead ignorance; ſo that if your days be finiſhed, and your work unfiniſhed: Wo be to that Man or Woman, it had been better for them they had never been born.</p>
+            <p>But on the other ſide, If we can ſay with <hi>Paul</hi> in my Text That we have fought the good fight, and finiſhed our courſe, <hi>&amp;c.</hi> Then when Death comes thou mayeſt entertain it with a ſmile, and triumph over it; and though it cloſes thine Eyes, ſo as to hinder thy beholding of all thy amiable enjoyments here on Earth. Thou ſhalt ſee them no more, but muſt bid adieu to them all for ever. Yet wilt thou then by an Eye of Faith with <hi>Stephen, See the Heavens opened, and the Son of</hi> 
+               <note place="margin">Acts 7. 56</note> 
+               <hi>Man ſtanding on the right hand of God;</hi> ready to receive thee, and bid thee welcom, <hi>to that glorious Inheritance, incorruptible and undefiled, and that fadeth not away, reſerved in Heaven for you,</hi> 1 Pet. 1. 4.</p>
+            <p>Having thus for brevity's ſake hudled matters together in general; I ſhall now in order to further inſtruction reduce the whole under two heads.</p>
+            <p n="1">1. With reſpect to the work which we have to do here on Faith: What it is, and how, and when it may be ſaid to be finiſhed.</p>
+            <pb n="10" facs="tcp:63093:7"/>
+            <p n="2">2. Somewhat with reſpect to the promiſed reward in Heaven, which follows: What that is, and upon what baſis our hopes and expectations of it are bottomed.</p>
+            <p>In the managing of both theſe I ſhall follow the guidance of my Text.</p>
+            <p n="1">(1.) Then as to the work we have to do in this Life<hi>:</hi> What it is: I hope I need not mind you, that the work I am ſpeaking to, relates not to the Duties of your particular Callings as Men, and as diſpoſed by the Conduct of Divine Providence into this and that civil and ſecular Employment, which are many and various, and which are ſo to be managed as may beſt ſubſerve your general Calling as Chriſtians. But the work I am to ſpeak to is of a far higher Nature, that which doth not ſo immediately, nor primarily reſpect our beings or well-beings with reſpect to time; as what reſpects our well-beings to Eternity: A work that hath ſome reſem<g ref="char:EOLhyphen"/>blance, and bears ſome parity to the great work that Jeſus Chriſt the Son of God came into the World for; though to be performed in a far different manner. Chriſt's work was re<g ref="char:EOLhyphen"/>ducible to two general heads.</p>
+            <p>Firſt, The glorifying of his Father: So you read, <hi>John</hi> 17. 4. <hi>I have glorified thee on the Earth, I have finiſhed the work which thou gaveſt me to do; q. d.</hi> Father that was the work which thou ſenteſt me into the World for, and that work I have done.</p>
+            <p>Secondly, Chriſt's work was to accompliſh the Redemp<g ref="char:EOLhyphen"/>tion and Salvation of all God's Elect. This work Chriſt had upon his hand to do, and he did it: Hence is he by way of Emphaſis ſtiled our Redeemer, our Saviour, <hi>Eph.</hi> 1. 7. <hi>in whom we are ſaid to have redemption, the remiſſion of ſins through his blood, according to the riches of his Grace:</hi> And ſo, <hi>Heb.</hi> 9. 12. <hi>Neither by the blood of goats and calves, he entered once into the holy place, having obtained eternal redemption for us;</hi> and <hi>Heb.</hi> 5. 9. <hi>Being made perfect, he became the Author of Eternal Salvation unto all them that obey him.</hi> This was Chriſt's work, and this work he finiſhed on Earth; ſo far: as his Fa<g ref="char:EOLhyphen"/>ther had appointed him to do here.</p>
+            <pb n="11" facs="tcp:63093:7"/>
+            <p n="2">2. Our work comes under the ſame denomination, and falls under theſe two heads.</p>
+            <p n="1">1. Our buſineſs is to glorifie God. <hi>Whether therefore ye</hi> 
+               <note place="margin">1 Cor. 10. 31.</note> 
+               <hi>eat or drink or whatever ye do, do all to the glory of God.</hi> It be<g ref="char:EOLhyphen"/>comes us, every morning when we riſe up, to put this Que<g ref="char:EOLhyphen"/>ſtion to our ſelves, how ſhall we ſo fill up this day as that God may have Glory from us? and at night, when we lye down, to ask our own Hearts what glory hath God had from us this day?</p>
+            <p n="2">2. Our work lyes in ſecuring our Eternal Salvation Chriſts working does not exclude nor excuſe our putting our hand to the ſame work; no, we muſt work too; though not in the ſame, but in a far different manner, <hi>work out your own ſal<g ref="char:EOLhyphen"/>vation with fear and trembling. For it is God who worketh in you</hi> 
+               <note place="margin">Phil. 2. 12, 13.</note> 
+               <hi>both to will and to do of his good pleaſure.</hi> We work not as Chriſt did by way of purchaſe and impetration; Here we can have no hand; But in a way of Application and Appropriation, in which neither can we do any thing as of our ſelves, but as we are aſſiſted and ſtrengthened by the operations of Gods Spirit. <hi>We are ſaved by grace through faith, and that not of our</hi> 
+               <note place="margin">Eph. 2. 8.</note> 
+               <hi>ſelves, it is the gift of God.</hi>
+            </p>
+            <p>Having thus in plain Terms given you an Account of your work in general, I ſhall ſpeak to it as 'tis metaphorically expreſſed in my Text.</p>
+            <p>
+               <hi>I have fought the good fight, I have finiſhed my courſe, I have kept the faith.</hi> This <hi>Paul</hi> gives us an account of, both with reſpect to his publick and more private and perſonal Station, as a Miniſter and as a Chriſtian. I ſhall paſs by the former in ſilence, and ſpeak only to the latter. In the words you have comprehended the whole Duty of Man, the ſum of the practical part of Chriſtianity; and this under three Meta<g ref="char:EOLhyphen"/>phors.</p>
+            <p n="1">1. <hi>I have fought the good Fight:</hi> In which he compares the life of a Chriſtian to a Military or Soldiers life, a continual Warfare.</p>
+            <p n="2">2. He compares it to the running of a Race, where a price is inſured to them who run well.</p>
+            <pb n="12" facs="tcp:63093:8"/>
+            <p n="3">3. He compares it to a faithful Repoſitor or Steward to one that hath ſomewhat of worth and weight committed to his Truſt; of which a good account is to be given. My buſineſs is to give you a ſhort Paraphraſe of the Chriſtians work, as vail'd under theſe ſimilitudes.</p>
+            <p>Firſt, As our Life while here on Earth is expreſſed by a continued Combate or Warfare; <hi>I have fought a good fight<g ref="char:punc">▪</g>
+               </hi> 
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rtamen Evan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>licum contra <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>iaboli inſidias, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>undi exempla <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> carnis illece<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>as.</hi> Grotius.</note> A good fight, ingaging in a good cauſe; and that which if heartily ingaged in is ſure to have a good iſſue and event. Thus the Life of a Chriſtian in Scripture is frequently repre<g ref="char:EOLhyphen"/>ſented: 2 <hi>Cor.</hi> 10. 4. <hi>For the weapons of our warfare are not carnal, but mighty through God, to the pulling down of ſtrong holds, caſting down imaginations, and every high thing which exalts it ſelf againſt the knowledge of God; and bringing into Captivity every thought into the obedience of Chriſt.</hi> Hence in the foregoing Epiſtle, <hi>Paul</hi> charges <hi>Timothy to war a good warfare; Paul</hi> had <note place="margin">Tim. 1. 18.</note> been himſelf a ſtout Champion, a couragious Souldier in this Holy War, his life ever ſince he was brought home to God, and firſt had taken Arms in this good Cauſe, had been a con<g ref="char:EOLhyphen"/>tinual conflict; many a hot skirmiſh he had had, many a ſharp encounter he had gone through; and poſſibly many a wound he had received, but he ſtill kept the Field, and had now upon the matter put his Enemies to a perpetual Rout, and was himſelf going out of the Field, through Chriſt that ſtrengthened him, <hi>more than Conqueror.</hi> Beloved, how large and copious a Subject I have here before me, I need not tell you, but my time will not allow me. This War my diſcourſe leads me to, is of a far higher Nature, and the ſucceſs that ſuch who are ingaged in it are concern'd about, is of Ever<g ref="char:EOLhyphen"/>laſting moment. The Enemies we muſt combat with are utterly implacable: that they will either kill or be killed. No peace not ſo much as a truce, to be made or indeavour<g ref="char:EOLhyphen"/>ed with them: <hi>Fight and Live, Yield and Dye,</hi> may well be e<g ref="char:EOLhyphen"/>very Chriſtians Motto, for (ſays the Apoſtle) <hi>if ye live after the fleſh ye ſhall dye, but if ye through the Spirit do mortifie the deeds</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 8. 13.</note> 
+               <hi>of the body ye ſhall live.</hi>
+            </p>
+            <p>Here I will only touch upon a few particulars for the fur<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:63093:8"/>
+illuſtration of theſe matters, and this in a brief reſolu<g ref="char:EOLhyphen"/>tion of the following Queries.</p>
+            <p n="1">1. Whom we are to underſtand by the Soldiers that are ingaged in theſe Wars againſt theſe implacable Enemies; and what Captain or General they fight under. For the Sol<g ref="char:EOLhyphen"/>diers they are all Believers, ſuch as had been taken Captive, but are ſuppoſed to be reſcued by the power of Chriſt the great Redeemer; and being thus reſcued in way of Gratitude to this bleſſed Redeemer, together with an Eye to their own ſafety, they have devoted themſelves to his Service, and un<g ref="char:EOLhyphen"/>der his Banner ſtand obliged to oppoſe the World, Fleſh and Devil; depending upon him for all their ſucceſs, as alſo for the obtaining their bleſſed Reward, as conſequential upon their Conqueſt. So that theſe ſpiritual Souldiers, ſuch as we can heartily bid God ſpeed, and pray for their good Suc<g ref="char:EOLhyphen"/>ceſs are all true Believers, who ſtand devoted to Chriſt <hi>the</hi> 
+               <note place="margin">Heb. 2. 10. Col. 1. 21. Acts 5. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Captain of their Salvation;</hi> all others who remain in their unre<g ref="char:EOLhyphen"/>generate ſtate, they are <hi>Enemies to Chriſt</hi> and his followers, who have for their General the Devil, whom they follow and for whom they <hi>fight againſt God,</hi> againſt his Spirit, nay <hi>War a<g ref="char:EOLhyphen"/>gainſt</hi> 
+               <note place="margin">1 Pet. 2. 11.</note> 
+               <hi>their own Soul.</hi> Some of theſe Enemies are more ſecret, and carry on their oppoſitions againſt God in a more hidden and cunning way; diſplaying Gods Colours whilſt they are managing the Devils Quarrels. Others are more open and notorious, <hi>that declare their Sin as Sodom and hide it not:</hi> That <note place="margin">Iſa. 3. 9.</note> ſet their Mouth againſt the Heavens; that dare to challenge God to his face. Of this ſort are all the openly prophane, Debauched, Atheiſtical, Idolatrous, Antichriſtian Crew. Theſe are the <hi>primo geniti diaboli,</hi> and may be called the Devils <hi>Janizaries.</hi> Of theſe we may ſay as <hi>Eliphaz</hi> doth of the wicked, <hi>They ſtretch out their hand againſt God, and ſtreng<g ref="char:EOLhyphen"/>then</hi> 
+               <note place="margin">Job 15. 25, 26.</note> 
+               <hi>themſelves againſt the Almighty, they run upon him even on his neck, upon the thick boſſes of his Bucklers.</hi> But as many and as mighty as all theſe be, yet ſooner or later they ſhall all be overcome, and ſhall yield either to the Scepter of his Grace: O bleſſed Conqueſt! or elſe be broken in peices by a Rod of Iron. But we are now ſpeaking of ſuch as fight a good fight; that are come on to Gods ſide, and are engaged for God and
+<pb n="14" facs="tcp:63093:9"/>
+Chriſt, <hi>againſt thoſe principalities and powers, and rulers of the</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 6. 12.</note> 
+               <hi>darkneſs of this World.</hi> You have heard who the Combatants are.</p>
+            <p n="2">2. In the next place we may enquire when they were firſt liſted, and enroll'd into Chriſts Army, and became ingaged in this Holy Warfare. Why this was not from their firſt entrance into the World; Alas no! we were all at firſt on the other ſide, born Enemies to God, and in condition of Servitude and Bondage to the Devil: All by Nature in a ſtate of Re<g ref="char:EOLhyphen"/>bellion againſt God, and Self-deſtroyers; but we become and were made ſo by Grace. The time of our firſt being Liſted under Chriſts Banner takes its Date from our Converſion. When we are brought to a hearty and ſincere Cloſure with and Entertainment of Chriſt as our Lord and Saviour, as offered to us in and by the Goſpel; which is that great inſtru<g ref="char:EOLhyphen"/>ment by the joyful ſound of which Chriſt by his Ambaſſadors goes forth and invites and calls poor Sinners off from the De<g ref="char:EOLhyphen"/>vils Camp, and to yield themſelves to him: And when theſe out<g ref="char:EOLhyphen"/>ward Calls are accompanied by the efficacious workings of Gods Spirit, then Sinners are made willing in the day of Chriſts power. Chriſt and his Goſpel where they come do <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 10. 3.</note> not find ſinners willing at the firſt motion to hearken to his Counſel, nor quit their Arms, nor ſubmit to him, but he makes them willing; and from that time of their yielding to Chriſt, they declare War againſt the World, the Fleſh and the Devil. And theſe Enemies upon this grow more enrag<g ref="char:EOLhyphen"/>ed than before, which young Converts are not ſo well aware of many times, drawing very uncomfortable and unwarrant<g ref="char:EOLhyphen"/>able Concluſions againſt themſelves, thinking they are now worſe than before, becauſe they find their enemies more buſie and enraged than in time paſt. But remember this the Devil and our Luſt are ordinarily moſt deſtructive where they are leſt diſturbing. <hi>Whileſt the ſtrong man armed keepeth his Palace,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1. 21.</note> 
+               <hi>his goods are at peace.</hi>
+            </p>
+            <p n="3">3. Enquiry might be made what Enemies the Chriſtian Soldier hath to encounter with? theſe you know are common<g ref="char:EOLhyphen"/>ly reduced to three Heads, <hi>viz.</hi> the Devil, the World, and the Fleſh.</p>
+            <pb n="15" facs="tcp:63093:9"/>
+            <p>Firſt, The Devil, from whoſe Tyrannical dominion Belie<g ref="char:EOLhyphen"/>vers are enabled to eſcape. He is our old Adverſary, he is call'd <hi>a murtherer from the beginning.</hi> Oh the many ways <note place="margin">Joh. 8. 44.</note> 
+               <hi>and ſtratagems</hi> by which he carries on his pernicious deſigns <note place="margin">2 Cor. 2. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> againſt poor Souls! both to retain and hold faſt ſuch as <hi>he hath taken in his ſnare, by whom they are carried captive at his</hi> 
+               <note place="margin">2 Tim. 2. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>will;</hi> and that which is moſt ſad, by the conſent of their own will too; and alſo to reduce and bring back again ſuch as <hi>have fled to Chriſt for refuge, to lay hold upon the hope ſet before them.</hi> 
+               <note place="margin">Heb. 6. 18.</note> Againſt whom Chriſtians are warned to keep their eye upon, 1 <hi>Pet.</hi> 5. 8, 9, <hi>Be ſober, be vigilant; becauſe your adverſary the devil, as a roaring lion, walketh about ſeeking whom he may devour. Whom reſiſt ſtedfaſt in the faith.</hi>
+            </p>
+            <p>Secondly, The World; Which not as made by God, but as marr'd by Sin, is an inveterate Enemy againſt the Chri<g ref="char:EOLhyphen"/>ſtian; which therefore we are caution'd againſt by no means to give entertainment to in our Affections, <hi>Love not the</hi> 
+               <note place="margin">1 Joh. 2. 15.</note> 
+               <hi>world, neither the things that are in the world; if any man love the world, the love of the father is not in him.</hi> This World is a Witch, a <hi>Delilah;</hi> what unſpeakable detriment have Chri<g ref="char:EOLhyphen"/>ſtians been expoſed to, when once by her Allurements they have been enticed to take a nap and lay their Heads in the Lap of the Profits, Pleaſures or Honours of this World? What advantage hath Satan hereby taken to cut their Locks, and abate their ſtrength which many times hath ſcarce been re<g ref="char:EOLhyphen"/>covered to their dying day!</p>
+            <p>Thirdly, The fleſh, which though mentioned in the laſt place yet is not the leaſt of thoſe Enemies the Chriſtian hath to encounter with, but rather the worſt, and greateſt. For what could Satan or the World do without, if it were not for the Fleſh within? By Fleſh I mean not the Body, but the remainders of the corrupt Nature, that inward and unſeen depravity which like a Leproſie hath over-ſpread us from head to foot, that body of Sin the bleſſed Apoſtle complain'd of; <hi>which warred againſt the law of his mind, and brought him into cap<g ref="char:EOLhyphen"/>tivity to the Law of ſin which was in his Members.</hi> This like a <note place="margin">Rom. 7. 23, 25.</note> Traytor in a City or Caſtle is always ready upon every occa<g ref="char:EOLhyphen"/>ſion to open the gates and let in the Enemies that lye in ſiege gainſt it.</p>
+            <pb n="16" facs="tcp:63093:10"/>
+            <p>Fourthly, We might further enquire what thoſe Weapons are, both Offenſive and Defenſive, with which Believers muſt be armed to encounter with theſe Enemies; and which upon their firſt liſting themſelves they are to put on, and ſo to put on, as never to put them off till they have gained a perfect Conqueſt<hi>:</hi> To which I briefly anſwer, you may find them ſummed up in one Chapter, where you have the Chriſtians Armory or Magazine; to which the Soul upon its clo<g ref="char:EOLhyphen"/>ſure with Chriſt, and firſt Ingagement muſt repair; and with which he muſt furniſh himſelf: Never thinking to en<g ref="char:EOLhyphen"/>counter theſe Enemies naked with ſucceſs; nor with any other Weapons which are not of this make: You have them ſet down by the Apoſtle, <hi>Epheſ.</hi> 6. from the <hi>11th.</hi> to the <hi>18th verſe</hi> of that Chapter; where we are exhorted, <hi>ver.</hi> 11. <hi>Put on the whole Armour of God, that ye may be able to ſtand againſt the wiles of the Devil.</hi> This Counſel is repeated, <hi>ver.</hi> 13, the ſeveral pieces of this Spiritual Armour are ſet down in the following Verſes, <hi>viz.</hi> 14, 15, 16, 17. <hi>The girdle of truth, and the breaſt-plate of righteouſneſs, the feet ſhod with the preparation of the Goſpel of Peace, the Shield of Faith, the Helmet of Salvation, the Sword of the Spirit.</hi> Theſe things I cannot now open, only obſerve the Title that is put upon them all; they are ſtiled <hi>the Armour of God,</hi> amongſt other reaſons for theſe two to note to us, that they are all of Di<g ref="char:EOLhyphen"/>vine inſtitution, and of divine conſtitution. All other Wea<g ref="char:EOLhyphen"/>pons which are of Humane make and invention, as I might inſtance in many; eſpecially ſuch as are fram'd in Antichriſt's Forge; How fond ſoever ſome are of them, will in theſe Spiritual Encounters be of no uſe, nor force. 'Tis not the beſprinkling our ſelves with Holy Water, or ſigning our ſelves with the ſign of the Croſs, that will defend us from, or help us againſt the aſſaults of the Devil. Theſe are but wooden Daggers and elder Guns, that will never do execution.</p>
+            <p>It may be ſaid of the Devil as to all ſuch Weapons, What is ſaid of the Leviathan, ſuch <hi>Darts are counted as ſtubble,</hi> and <note place="margin">1. 29.</note> he laughs at the ſhaking of ſuch Spears.</p>
+            <p>Fifthly, We ſhould enquire what the cauſe or controverſie is that occaſions theſe continued Combates betwixt the Be<g ref="char:EOLhyphen"/>liever
+<pb n="17" facs="tcp:63093:10"/>
+and theſe Spiritual Enemies? Why, it is whether the Chriſtian ſhould remain and perſevere in further ſubjection to God and Chriſt, to whom he hath devoted himſelf, and who is his rightful Lord and Soveraign; and on whom depend all his preſent comforts and future hopes: Or whether he ſhould baſely and treacherouſly revolt and return to his former bon<g ref="char:EOLhyphen"/>dage and ſlavery to his Temporal and Eternal Ruine. This my Brethren is the plain caſe, this is their deſign they aim at, nothing ſhort of this will put an end to this Controverſie to the contentment of thy Adverſaries; and in this is it thy con<g ref="char:EOLhyphen"/>cern to oppoſe them to the utmoſt.</p>
+            <p>Sixthly, We might yet further enquire, what thoſe Victo<g ref="char:EOLhyphen"/>ries are which the Chriſtian Combatant obtains againſt theſe Enemies?</p>
+            <p>Theſe are of two ſorts:</p>
+            <p n="1">1. Such as are inchoate, particular Conqueſts, in particu<g ref="char:EOLhyphen"/>lar caſes, and particular conflicts with this or that ſingle temptation or corruption: And theſe are temporary; upon which the Enemy is put upon retreat, and withdrawing for a ſeaſon; though they quickly rally again; and many times make fiercer onſets than before: As Chriſtians find by fre<g ref="char:EOLhyphen"/>quent experience. Thus he dealt with our Bleſſed Saviour; in that ſingle combat which he was permitted to ingage in with the Captain of our Salvation as it were hand to hand. <hi>'Tis ſaid he was led up of the Spirit into the Wilderneſs to be</hi> 
+               <note place="margin">Matth. 4.</note> 
+               <hi>tempted of the Devil.</hi> After this hold encounter, 'tis ſaid, <hi>verſe</hi> 11. <hi>Then the Devil leaveth him:</hi> But how long, not for ever: No the Evangeliſt <hi>Luke</hi> tells us, <hi>He departed from him for a ſeaſon.</hi> Though our Saviour had the Victory, yet was <note place="margin">Luke 4. 1</note> he not quite routed, but returned again, though not in the like manner.</p>
+            <p n="2">2. Therefore there is a Conqueſt that the Chriſtian ſhall at length get over thoſe Enemies, that ſhall be compleat and conſummate<hi>:</hi> But this is not to be expected till the Chriſtian can ſay with <hi>Paul, The time of my departure is at hand.</hi> This Conqueſt <hi>Paul</hi> had now in proſpect by an Eye of Faith; then when Death comes, Chriſt leads them out of the Field more than Conquerours; where they ſhall be out of their reach,
+<pb n="18" facs="tcp:63093:11"/>
+they ſhall ſin no more, nor be tempted any more; but all tears ſhall be wiped from their Eyes, and Everlaſting Joy ſhall be upon their Heads, and Sorrow and ſighing ſhall flee away. Thus have I briefly run over the firſt Metaphor by which the Chriſtians work is expreſſed.</p>
+            <p>Secondly, Another Metaphor by which the ſame thing is denoted<hi>:</hi> The Chriſtians work is compared to the running of a race<hi>: I have finiſhed my courſe,</hi> ſaith <hi>Paul.</hi> Many a weary ſtep he had taken, ſo it was and might be accounted conſider<g ref="char:EOLhyphen"/>ing the many incumbrances he was laden with, and the many difficulties as to the Fleſh he was expoſed to. Otherwiſe <hi>Wiſ<g ref="char:EOLhyphen"/>doms</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 17.</note> 
+               <hi>wayes are wayes of pleaſantneſs, and all her paths are peace.</hi> Many a Temptation to turn aſide, or go back, many a rub and difficulty to get over <hi>Paul</hi> had doubtleſs met with; but now he was come to the laſt ſtage, and almoſt to the end of that too; he was juſt ready to receive his Garland. A few ſteps more and he ſhould enter upon his Everlaſting reſt<hi>: I have</hi> (ſaith he) <hi>finiſhed my courſe,</hi> got to the end of my race.</p>
+            <p>A Chriſtians Life is often in Scripture compared to the running of a Race, 1 <hi>Cor.</hi> 9. 24. <hi>Know ye not that they which run in a race run all, but one receiveth; the prize ſo run that ye may obtain:</hi> And elſewhere the Apoſtle ſpeaking to ſome who had eſpouſed the Faith of the Goſpel, and were now in danger of declining from the Truths they had embraced. He gives them this admonition: <hi>Ye did run well, who did binder you that ye ſhould not obey the truth:</hi> And ſo in <hi>Heb.</hi> 12. 1. <hi>Let us run with patience the race that is ſet before us.</hi> If you ſhould ask me where<g ref="char:EOLhyphen"/>in the Life of Chriſtianity is like the running of a Race: I anſwer briefly in a few particulars, though many others might be mentioned.</p>
+            <p>Firſt, In the running of a Race: Care muſt be taken that the perſons that run ſtart fair, I mean not together; but that they begin at a right place appointed by him who hath the ordering of that affair. Now to accommodate this to a Chriſtian Race; this muſt always take its riſe from the Souls ſincere cloſing with Chriſt by Faith; before a Sinners ſound Converſion to God by Chriſt, he cannot run right: There are ſome, I fear too many that obſerve not this order; but
+<pb n="19" facs="tcp:63093:11"/>
+all on a ſudden will jump (as it were) into a profeſſion of Re<g ref="char:EOLhyphen"/>ligion, and appear very forward and zealous; and ſeem to out-ſtrip a great many ſound Chriſtians: But, alas! For want of ſetting out right, not laying their building upon the true baſis, <hi>viz. Repentance towards God, and Faith in our Lord Jeſus Chriſt;</hi> They ſoon tire and turn aſide; and though they <note place="margin">Acts 20. 21.</note> ſeem to begin in the Spirit, they take up and end in the fleſh; and all their <hi>goodneſs</hi> (like <hi>Ephraims)</hi> proves like <hi>the morning</hi> 
+               <note place="margin">Hoſ. 6. 4.</note> 
+               <hi>dew, and the early cloud that ſoon paſſeth away.</hi> This, this is one of the great grounds of Apoſtacy; of which this Age affords too many inſtances. You young ones that begin to favour the things of God, remember this; trouble not your Heads with Controverſies and Diſputable Points, at leaſt till you have well ſtudied, and are throughly verſed in the great and neceſſary, and with all plain Doctrines of Faith and Re<g ref="char:EOLhyphen"/>pentance, the two Eſſentials of ſound Converſion.</p>
+            <p n="2">2. The running of a Race is a regular Motion: It is not a running any where backward or forward; but a keeping to thoſe Rules and Limits that are preſcribed by him or them that have the ordering of it. Religion is not a wild diſorderly, extravagant, fanciful thing; but a walking by rule, and that by a right rule that is preſcribed by God's word<hi>: As many as walk according to this rule, peace be on them, and mercy, and</hi> 
+               <note place="margin">Gal. 6. 16.</note> 
+               <hi>upon the Iſrael of God.</hi> And ſayes <hi>David, I will run the wayes</hi> 
+               <note place="margin">Pſal. 119. 32.</note> 
+               <hi>of thy Commandments, when thou ſhalt inlarge my heart:</hi> Some have been and are yet upon the run, (God ſtop them) that run from God and Chriſt, and Salvation, and run to the De<g ref="char:EOLhyphen"/>vil, and poſt to the bottomleſs pit; as if it were with them, as with the Swine when poſſeſſed by the Devil; who are ſaid <hi>to run violently down a ſteep place into the Sea, and periſh in the</hi> 
+               <note place="margin">Matth. 8. 32.</note> 
+               <hi>waters.</hi> The <hi>Pſalmiſt</hi> tells us, (and I think many in this Na<g ref="char:EOLhyphen"/>tion have given us ſad proof of it<hi>:) Their ſorrows ſhall be mul<g ref="char:EOLhyphen"/>tiplyed</hi> 
+               <note place="margin">Pſal. 16. 4.</note> 
+               <hi>that haſten after another God.</hi> Bleſſed be God we have ſeen the accompliſhment of the former, as well as the latter; theſe are ſad Races: But by what Rules were they acted? No other, no better than the Luſts, and curſed Imaginations of their own Hearts: But ſuch as run the Chriſtian Race muſt obſerve God's Word for then Guide: Thus <hi>David, Thy word</hi> 
+               <note place="margin">Pſal. 119. 05.</note>
+               <pb n="20" facs="tcp:63093:12"/>
+               <hi>is a light to my feet, and a lamp to my paths.</hi> 'Tis not the de<g ref="char:EOLhyphen"/>crees of Popes, nor Canons of Councils, nor ſayings of Fathers, but God's Word that in this Race is to be our Guide. <hi>Thou</hi> 
+               <note place="margin">Pſal. 73. 24.</note> 
+               <hi>ſhalt guide me with thy counſel, and afterwards receive me to glory.</hi>
+            </p>
+            <p>Thirdly, The running of a Race is a progreſſive motion. It is not the running in a round, but a going forward, <hi>Phil.</hi> 3. 13, 14. <hi>Brethren I count not my ſelf to have apprehended; but this one thing I do forgetting thoſe things which are behind, and rea<g ref="char:EOLhyphen"/>ching forth unto thoſe things that are before; I preſs towards the mark, for the prize of the high Calling of God in Chriſt Jeſus.</hi> This ſpeaks the Chriſtians dayly endeavour; <hi>to grow in Grace, and</hi> 
+               <note place="margin">2 Pet. 3. 18.</note> 
+               <hi>in the knowledge of our Lord and Saviour Jeſus Chriſt.</hi> There muſt be a going from ſtrength to ſtrength, a ſtriving to get more of God, and do more for God. Here muſt be no ſtand<g ref="char:EOLhyphen"/>ing ſtill, nor much leſs any turning aſide, or going back. O Chriſtians! How earneſt had we all need be in our pleadings with God, that he would <hi>heal our backslidings,</hi> and accom<g ref="char:EOLhyphen"/>pliſh that gracious Promiſe; <hi>The Righteous alſo ſhall hold on his</hi> 
+               <note place="margin">Job 17. 9.</note> 
+               <hi>way, and he that hath clean hands ſhall be ſtronger and ſtronger.</hi>
+            </p>
+            <p>Fourthly, Running of a Race is a painful motion; there is and muſt be a putting forth all the ſtrength a Man hath. So my Friends the performance of the Duties of Chriſtianity is no eaſie thing to Fleſh and Blood: No room for Spiritual ſloth, and lazineſs. The way in Heavens road is up hill, and moſt what rough and uneaſie way to the Fleſh; and ſuch as move in it, muſt expect to meet with difficulties; which con<g ref="char:EOLhyphen"/>ſidering the clogs that hang about us, the Sin that ſo eaſily be<g ref="char:EOLhyphen"/>ſets us, will require our utmoſt ſtrength; and to ſend up loud cryes to Heaven for dayly ſupplies: As <hi>David, Hold up my go<g ref="char:EOLhyphen"/>ings</hi> 
+               <note place="margin">Pſal. 17. 5.</note> 
+               <hi>in thy paths, that my footſteps ſlip not.</hi> How miſerably are they miſtaken, that conceit it is an eaſie matter to be a Chri<g ref="char:EOLhyphen"/>ſtian, or to live a Chriſtians Life.</p>
+            <p>Fifthly, The running of a Race is adjudged to be a con<g ref="char:EOLhyphen"/>ſtant, continued, and perſevering motion without ſtop or ſtay till we come to the end. So Beloved, Chriſtianity will find the Chriſtian work every day.
+<pb n="21" facs="tcp:63093:12"/>
+               <hi>Herein do I exerciſe my ſelf to have always a Conſcience void of</hi> 
+               <note place="margin">Acts 24. 16.</note> 
+               <hi>offence towards God, and towards Men.</hi> He doth not ſay I have done, or I will do; no 'tis a work alwayes a doing. You have work not only for the Lord's day, when you have more immediately to do with God, but on the week dayes. Your Religion is not then to be laid aſide; as if all your Devotion was to be left at Church, and as if you were obliged to ſerve God only one day in, and the Devil and the Fleſh all the week after. This ſpeaks that 'tis not enough to be Religious now and then in a good mood, or for a ſpurt and away; to take a few ſteps where the way is ſmooth and fair: No there muſt be a going through thick and thin: <hi>Bleſſed are they that keep judgment, and he that doth righteouſneſs</hi> 
+               <note place="margin">Pſal. 106. 3.</note> 
+               <hi>at all times: He that endures to the end ſhall be ſaved.</hi> 
+               <note place="margin">Matth. 24. 13.</note>
+            </p>
+            <p>
+               <hi>Queſt.</hi> But here an enquiry may be made: How <hi>Paul</hi> could ſay he had finiſhed his courſe, before he had finiſhed his days? 'Tis apparent that his Glaſs was not yet run, and ſo his Work was not yet done, he had a dark and thorny Stage to paſs through yet, in which he had at preſent taken but a few ſteps.</p>
+            <p>
+               <hi>Reſol.</hi> 1. To this I anſwer, Firſt Negatively, That if you take it in a plain literal ſence, no Chriſtian can be ſaid to have finiſhed his Courſe till he have finiſhed his Breath and Life: The whole Day, the Evening, as well as the Noon and Mor<g ref="char:EOLhyphen"/>ning, are appointed all for Work: Indeed when the Night comes, our working time is over.</p>
+            <p>
+               <hi>Reſol.</hi> 2. But yet Secondly Affirmatively: A Believer may be ſaid to have finiſhed his Work; as it is his ſincere purpoſe and firm reſolution not to give over till he hath finiſhed it; as God through his Grace is ready to account that to be done, which the gracious Soul purpoſes and reſolves through Divine Aſſiſtance to do: Thus ſome reſolve the ſame Queſtion refer<g ref="char:EOLhyphen"/>ing to Chriſt, ſaying, <hi>I have finiſhed the work which thou gaveſt</hi> 
+               <note place="margin">John 17. 4.</note> 
+               <hi>me to do.</hi> How could this be, when as yet the bittereſt part of that Cup his Father had given him to drink was yet behind? To reſolve this, <hi>Auguſtine</hi> puts the Praeterperfect Tenſe into the Future Tenſe. I have finiſhed it, <hi>viz.</hi> I will finiſh it.</p>
+            <p>But laſtly the beſt reſolution of this concerning Chriſt, and <hi>Paul</hi>'s ſaying he had finiſhed his Courſe; as thereby expreſſing
+<pb n="22" facs="tcp:63093:13"/>
+their readineſs as well as reſolvedneſs to finiſh and conſum<g ref="char:EOLhyphen"/>mate the Work they had gone on in ſo far: <hi>I have finiſhed my Courſe; q. d.</hi> my time is juſt now at a period: I am now entring upon the laſt Stage a few more ſteps to take, and all is over: A few moments will perfect all, he lived in the view of Death which he ſaw was at the door, which would put a <hi>Finis</hi> to all.</p>
+            <p>Thirdly, I proceed now to the third and laſt Metaphor; by which a Chriſtians Life is repreſented; alluding to the Duty of a faithful Steward, who having ſomewhat of weight and worth committed to his Truſt, is careful not to loſe nor embezzle it; but preſerve it for the uſe of the Owner with<g ref="char:EOLhyphen"/>out dammage or detriment: Thus ſaith <hi>Paul, I have kept the Faith.</hi> Here I ſhall touch only upon two things.</p>
+            <list>
+               <item>1. What was this Treaſure, this Truſt, that is ſuppoſed to be committed to <hi>Paul</hi>'s care? <hi>The Faith.</hi>
+               </item>
+               <item>2. How <hi>Paul,</hi> or any true Chriſtian may be ſaid to keep this depoſitum, this Faith? <hi>I have kept the Faith.</hi>
+               </item>
+            </list>
+            <p>Firſt, What this Faith is?</p>
+            <p>Faith is chiefly to be conſider'd under one of theſe two Heads.</p>
+            <p n="1">1. Either the Grace of Faith; that Grace whereby through the operation of the Spirit of God, we come to be united to Chriſt, and intereſted in him, and all the benefits and bleſ<g ref="char:EOLhyphen"/>ſings that he hath purchaſed, called <hi>precious Faith,</hi> the <hi>Faith</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Pet. 1. 1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 1. 1.</note> 
+               <hi>of God's Elect,</hi> as peculiar to God's choſen ones<hi>:</hi> This is com<g ref="char:EOLhyphen"/>mitted to Chriſtians by way of operation and infuſion, and donation<hi>: By Grace ye are ſaved through Faith, and that not of your ſelves, it is the gift of God.</hi>
+            </p>
+            <p n="2">2. By Faith we are to underſtand the Doctrine of Faith; the revelation of the Divine Will in the Goſpel of God's Grace, which was committed to <hi>Paul</hi> as a Miniſter to be by him diſpenſed and preached to others; as <hi>being the power of God unto ſalvation:</hi> And elſewhere he tells us that Chriſt hath <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>m. 1. 16.</note> 
+               <hi>committed unto us the word of Reconciliation:</hi> And this is al<g ref="char:EOLhyphen"/>ſo a truſt committed unto all Chriſtians; to be profeſſed, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cor. 5. 19.</note> owned, obeyed, believed, againſt all gainſayers whoſoever, whether they be Men of unſound Minds, or ungodly Livers:
+<pb n="23" facs="tcp:63093:13"/>
+               <hi>Which ſome profeſſing have erred concerning the Faith.</hi> This is <note place="margin">1 Tim. 6. 21<g ref="char:punc">▪</g> Jude 3.</note> that Faith <hi>which we are exhorted, earneſtly to contend for, which was once delivered to the Saints.</hi>
+            </p>
+            <p>Secondly, What is meant by his keeping the Faith? To which I anſwer,</p>
+            <p n="1">1. If you take it in the former ſenſe, then it imports his conſtant endeavour to keep that Grace in its exerciſe, by a conſtant cleaving to, and relyance upon God and Chriſt for Life and Salvation, drawing continued ſupplies of his Grace and Spirit, for the enabling a Chriſtian to do his preſent work, and to fit him for his future reward; and this againſt all the oppoſition that he may meet with, from the ſlie and ſubtle ſuggeſtions and inſinuations of the Devil, who hath a ſpecial ſpight at the Chriſtians Faith.</p>
+            <p n="2">2. But if you take it in the latter ſence, then it imports the holding faſt our profeſſion of this both in our principles, and practices, againſt all attempts of Seducers and Perſecutors, and againſt all the enticing and alluring examples of pro<g ref="char:EOLhyphen"/>phane and ungodly ones: Such there have been, and never more than in this looſe and ungodly Age in which we live<hi>: When Iniquity abounds, and the Love of many waxes cold:</hi> When <note place="margin">Matth. 24. 12.</note> there are great endeavours to laugh all true Religion, and Godlineſs in its power out of countenance, and various ſtrata<g ref="char:EOLhyphen"/>gems to induce Chriſtians <hi>to make ſhipwrack of Faith and a good</hi> 
+               <note place="margin">1 Tim. 1. 19.</note> 
+               <hi>Conſcience.</hi>
+            </p>
+            <p>Thus have I given you a ſhort account of the firſt part of my Text, as expreſſive of the true Chriſtians work; a work to be done here.</p>
+            <p>I proceed now very briefly to <hi>Paul's</hi> proſpect what he had in view hereafter, relating to the Glorious Reward he was up<g ref="char:EOLhyphen"/>on the matter entring into the poſſeſſion of.</p>
+            <p>
+               <hi>Henceforth is laid up for me a Crown of Righteouſneſs:</hi> I pur<g ref="char:EOLhyphen"/>poſe only to note a very few things, and ſhut up the whole with a ſhort Application.</p>
+            <p>Firſt, Here we have an account of that future felicity, which is reſerved for the Saints; 'tis <hi>a Crown,</hi> and <hi>a Crown of Righte<g ref="char:EOLhyphen"/>ouſneſs:</hi> A <hi>Crown,</hi> which you know, is an Enſign of the grea<g ref="char:EOLhyphen"/>teſt Honour upon Earth, and an Emblem of the higheſt
+<pb n="24" facs="tcp:63093:14"/>
+Glory in Heaven. Such a Crown, and ſuch a Kingdom, as infinitely exceeds all the Crowns and Kingdoms of the World; 'tis an <hi>Incorruptible</hi> Crown; a Crown, <hi>which fadeth not away;</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 9. 25.</note> whereas all the Crowns of Kings and Emperours, which are ſo eagerly contended for by the Men of this World, are poor, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 5. 4.</note> periſhing, corrupting, fading things. 'Tis a <hi>Crown of Life.</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1. 12.</note> What ſhall I ſay? Tis not only a Glorious Crown, but a Crown of Glory.</p>
+            <p>Secondly, 'Tis a Crown <hi>of Righteouſneſs;</hi> as peculiarly be<g ref="char:EOLhyphen"/>longing to thoſe, who are clothed with the Robe of Chriſt's Righteouſneſs imputed, and with the fine Linnen of the Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt imparted: And alſo, as a Righteous, but yet free Reward, which the Righteous God hath promiſed, and will faithfully perform.</p>
+            <p n="2">2. We may obſerve here the <hi>time</hi> of Believers entring upon the poſſeſſion of this future Glory.</p>
+            <p n="1">1. In part, as to their Souls: <hi>Henceforth;</hi> that is imme<g ref="char:EOLhyphen"/>diately upon their Death and Diſſiolution. <hi>Bleſſed are the dead which dye in the Lord, from henceforth; yea faith the Spi<g ref="char:EOLhyphen"/>rit,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 14. 13.</note> 
+               <hi>that they may reſt from their labours, and their works do follow them: So Paul; Having a deſire to depart, and to be with Chriſt.</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1. 23</note> In the ſame moment, wherein they paſs from Earth, they go to Heaven; there is no calling in at Purgatory by the way; no middle ſtate to detain the Souls of Believers in.</p>
+            <p n="2">2. Perfectly and compleatly, with reſpect to Soul and Bo<g ref="char:EOLhyphen"/>dy at a certain day; the day of Judgment, which will be a day of Retribution, which is called by way of emphaſis in the Text, <hi>That Day.</hi> A remarkable day it will be, when the whole World ſhall be determined and ſent to their Everlaſt<g ref="char:EOLhyphen"/>ing abodes, either of Happineſs on the one ſide, or Miſery on the other.</p>
+            <p>Thirdly, We may obſerve the <hi>manner</hi> of the Saints entring upon this Glorious Poſſeſſion; not as matter of merit, but by way of free donation; <hi>which God the righteous Judge ſhall give me,;</hi> ſays <hi>Paul</hi> here. Eternal Life coſt Chriſt very dear, (no leſs than his Life-Blood) but it comes free to us, without price or purchace on our part. 'Tis not our deſerved Wa<g ref="char:EOLhyphen"/>ges, but <hi>the gift of God through Jeſus Chriſt our Lord.</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 23.</note>
+            </p>
+            <pb n="25" facs="tcp:63093:14"/>
+            <p>Fourthly, We have here the <hi>Extent</hi> of this Gift, not only to ſuch as <hi>Paul,</hi> a Believer of the higheſt Fourm, a Star of the firſt Magnitude in the Firmament of the Church, <hi>(not to me only,</hi> &amp;c.) but to every true, though weak Believer; to all who can approve themſelves ſuch as love the Lord Jeſus in ſincerity, and look and long for his appearing. It was not the peculiar priviledge of this great Apoſtle, but a <hi>com<g ref="char:EOLhyphen"/>mon Salvation,</hi> which belongs to all the faithful, from the greateſt to the leaſt of Saints. And thus I have diſpatcht the Doctrinal part of this Text, I ſhall only add a word or two for the practical improvement of it.</p>
+            <p>Firſt, If they, and only they, who have good evidence of having done and diſpatcht their great Work and Buſineſs in this World, can with comfort and confidence enſure to them<g ref="char:EOLhyphen"/>ſelves the expectation of the promiſed Reward in the other: Then hence we may infer the madneſs and folly of a great part of thoſe that hear me this day: Who have been ſo often told of this Future State, and profeſs to believe it, and by dayly renewed inſtances of Mortality cannot but be convinced, that they are drawing near to it, and perhaps may be upon the very brink of it, not knowing what a day or night may bring forth, and yet they have lived all their days in a total neglect of that work, whoſe accompliſhment is a neceſſary praerequiſite to this promiſed Reward: Who are ſo far from having conquered their Enemies, and fought the good fight, that they have not yet really <hi>liſted</hi> them<g ref="char:EOLhyphen"/>ſelves under Chriſt's Banner, who are ſtill Servants of Sin, and Slaves of the Devil, and Strangers and <hi>Enemies</hi> to Chriſt; who are found fighting indeed, but whom or what do they fight for? They are <hi>fighters againſt God, reſiſters of the Spirit,</hi> ſtriving againſt the Counſels of God's Word, and the Mo<g ref="char:EOLhyphen"/>tions of his Grace, and reſolv'd to maintain and defend their Luſts. Poor, wretched Souls! Can you think to live here always? Or, that your Houſes ſhall continue for ever? Do you never expect to dye? Or is it indifferent with you, where Death will ſet you, in Heaven or in Hell? The Lord ſo awa<g ref="char:EOLhyphen"/>ken you, that you may give no ſleep to your Eyes, nor reſt to your Souls, till you come in at the ſound of the Goſpel-Trumpet.
+<pb n="26" facs="tcp:63093:15"/>
+You who have not taken one <hi>ſtep</hi> in this Chriſtian Race; who are running indeed, but whither (I beſeech you) ſo faſt? You are <hi>running from God,</hi> with your Faces towards Hell, and your Backs upon Heaven; and there is no ſtop<g ref="char:EOLhyphen"/>ping you (as yet) in this curſed Race; Miniſters call after you; God calls, and holds out a Crown to you, invites and intreats you to conſider your wayes, and turn your feet un<g ref="char:EOLhyphen"/>to his Teſtimonies. You, who are ſo far from keeping the Faith, that you are Strangers to any ſuch Work and Gift; you have <hi>none in truth</hi> to keep: You may have and make a profeſſion, but it is ſo weakly bottomed, ſo little underſtood, and you are ſo unable to give a reaſon of it, that you are ready to part with it, when the next temp<g ref="char:EOLhyphen"/>tation aſſaults you. The Lord give you to believe, and put the Spirit of Faith within you, before it be too late to cure your Infidelity, and you periſh from the way.</p>
+            <p>Secondly, Improve this, Oh you Chriſtians, who are Chriſtians indeed, for your encouragement in your Work and Way. You; who have <hi>enter'd the Liſts,</hi> and are <hi>engaged</hi> in this <hi>Holy War;</hi> let what you have heard this day, ſtrengthen you in your Conflicts. It is true, God hath caſt your Lot in an evil day, in which all your Enemies, the World, Fleſh and Devil are coming forth full of rage and fury, and you may expect a terrible <hi>ſhock;</hi> but let me beſeech you to <hi>endure</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2. 3.</note> 
+               <hi>hardneſs, as good Soldiers of Jeſus Chriſt.</hi> Still think, that you hear Chriſt calling to you, <hi>Be of good chear, I have over<g ref="char:EOLhyphen"/>come</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 33.</note> 
+               <hi>the World;</hi> I may add, and the God of the World too. You muſt combate ſtill, but remember, 'tis with <hi>conquered Enemies.</hi> You have indeed <hi>rough wayes</hi> to run your Race in, but there is a Glorious <hi>prize</hi> before you; <hi>Be not weary of well-doing, for in due ſeaſon you ſhall reap, if you faint not.</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 9.</note>
+            </p>
+            <p>There are, 'tis true, many <hi>Spoilers</hi> abroad, who would not only rob and deprive you of your Eſtates and Lives, but of your Souls and Religion, and tempt you to ſerve other Gods, which you have not known; but, bear up Chriſtians againſt them; <hi>Yet a little while, and he that ſhall come, will come, and will not tarry.</hi> To conclude, hearken diligently to <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 37.</note>
+               <pb n="27" facs="tcp:63093:15"/>
+what your Lord ſays, <hi>Hold faſt that which thou haſt, that no</hi> 
+               <note place="margin">Revel. 3. 11.</note> 
+               <hi>man take thy Crown.</hi>
+            </p>
+            <p>Having thus finiſht what I intended from the Text it ſelf, I ſhall now take leave to begin another Subject; which ſhall be a juſt and faithful account of this precious Saint and Ser<g ref="char:EOLhyphen"/>vant of God, lately deceaſed; Mrs. <hi>Elizabeth King,</hi> who having fill'd up the number of <hi>Thirteen Years</hi> the laſt day of the laſt Month, was on the Seventeenth day of this, removed by a very Triumphant Death out of the preſent World into a better, to the great grief not only of her Parents (who are moſt immediately and eſpecially concerned in the loſs) but alſo of all thoſe who had converſt with her, and ſeen or heard of that Bleſſed frame which ſhe was in at her depar<g ref="char:EOLhyphen"/>ture hence; I ſay, to their <hi>great grief,</hi> tho mixed with <hi>great joy,</hi> the pulling down of her Earthly Houſe, being like the laying of the Foundation of the ſecond Temple, which occaſioned both <hi>loud ſhouting</hi> and <hi>weeping</hi> too. I have a Theam <note place="margin">Ezra 3. 12.</note> before me, which might well employ the Tongue or Pen of the greateſt Oratour, enough to ſtrike the Hearers with wonder; but, at what? Not a poor empty Creature, (which is nothing, or worſe than nothing of it ſelf) but the rich and powerful Grace of God, which hath been ſo conſpicu<g ref="char:EOLhyphen"/>ous in ſo <hi>young a Child,</hi> as may well be uſher'd in with a [Behold], and command both your quickeſt attention, and higheſt admiration. To ſay nothing of her Anceſtors, (the <hi>worthy Grandfathers</hi> on both ſides, who <hi>yet ſpeak, though dead</hi> many years ſince, and from whoſe <hi>Prayers,</hi> while alive, ſhe may be juſtly ſuppoſed to have received ſome benefit) nor of her Parentage, nor Education, I ſhall confine my ſelf to the recital of ſome paſſages, which dropt as Honey from her Lips, upon her Death-Bed; and eſpecially on the day before her tranſlation into Heaven. The warning which God gave her to get ready for her change, was ſhort, though ſhe was apprehenſive (as ſhe afterwards declared) aſſoon as God laid his Hand upon her, that the ſtroak would be mor<g ref="char:EOLhyphen"/>tal. The Meſſenger which her Heavenly Father ſent (I
+<pb n="28" facs="tcp:63093:16"/>
+mean the Diſtemper, wherewith ſhe was at firſt ſeized) had <hi>Eſau's hand,</hi> and handled her roughly; ſhe was taken on the Lords day at night, or early in the next morning of that week in which ſhe dyed, with extream tormenting pains, and though ſhe wanted no Humane help, it prov'd all but vain; and under ſuch a racking exerciſe (notwithſtanding a very diligent application of means) ſhe continued till the <hi>Fryday</hi> morning following; during which time, though ſhe could not forbear to <hi>groan,</hi> ſhe was never heard to <hi>grumble;</hi> (as was ſaid of her <hi>Great Grandfather,</hi> whoſe name is famous <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>W. Gouge</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Life.</note> in the Church of God) ſhe never uttered one mutinous or diſcontented word, but ſhewed a mighty ſubjection of Soul to Gods mighty hand, and opened not her mouth, ſo as to charge Him fooliſhly; ſhe was <hi>dumb, becauſe God did it,</hi> like <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 39. 9. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. 7.</note> 
+               <hi>David,</hi> yea like Chriſt Himſelf, the unparalleld example of Divine Patience and Meekneſs.</p>
+            <p>On the <hi>Fryday</hi> morning before mentioned, whether her pains were more mitigated, or Nature more ſpent, Grace begun more ſignally to diſcover it ſelf: Her Parents being then preſent, found her in ſuch Heavenly raptures, and ſo refreſht with the prelibations and foretaſts of that Glory which ſhe was going to, that it filled them with aſtoniſh<g ref="char:EOLhyphen"/>ment; for at that time God began to give a remarkable an<g ref="char:EOLhyphen"/>ſwer to their Prayers, which were, that if He did call her hence by this viſitation (though that was earneſtly depreca<g ref="char:EOLhyphen"/>ted with ſubmiſſion to His Sovereign Pleaſure) ſhe might leave behind ſuch plain and manifeſt proofs of her eternal well-being, as might enable them to ſtand under that almoſt inſupportable burden; to theſe Prayers God was pleaſed to ſay, <hi>Amen;</hi> for though they had very good and juſtifiable hopes from thoſe Teſtimonies, which ſhe had given them in the time of her former Life, yet now her expreſſions and be<g ref="char:EOLhyphen"/>haviour a little before her Death were ſo much more ſatis<g ref="char:EOLhyphen"/>factory, that they left no room for the leaſt doubt or ſuſpi<g ref="char:EOLhyphen"/>cion of her Bleſſedneſs. Her Mother putting it to her, whe<g ref="char:EOLhyphen"/>ther ſhe remembred any <hi>particular time,</hi> when God <hi>firſt</hi> wrought upon her, ſhe anſwered, <hi>No, but God had begun to</hi>
+               <pb n="29" facs="tcp:63093:16"/>
+               <hi>work upon her, almoſt as ſoon as ſhe had a Being, or at leaſt, as ſoon as ſhe was come to the uſe of Reaſon;</hi> only ſhe recollected, that ſhe had ſome remarkable impreſſions made by the Spirit, at the hearing of a Sermon repeated from theſe words, <hi>Now we are the Sons of God, but it doth not yet appear, what we ſhall</hi> 
+               <note place="margin">1 John 3. 2.</note> 
+               <hi>be;</hi> and another time, at the hearing of a Sermon preacht upon the Glory of the Goſpel, from that Text, <hi>In whom the God of this world hath blinded the minds of them that believe not,</hi> 
+               <note place="margin">2 Cor. 4. 4.</note> 
+               <hi>leſt the light of the Glorious Goſpel,</hi> &amp;c. When I came to her that morning before ſhe dyed, (being ſent for, at her urgent requeſt) ſhe deſired me to Preach her Funeral Sermon, upon the ſubject which you have heard, readily repeating both the verſes without any haeſitation; adding, that ſhe deſir'd it, <hi>not upon her own account, but for the ſake of Religion;</hi> that the world might be convinced there was ſomewhat in <hi>that</hi> (how much ſoever deſpiſed) which would bear up the heart in a dying hour. With great gravity ſhe exhorted me to <hi>go on and Preach the Goſpel,</hi> praying, <hi>that my Miniſtry might not be in vain;</hi> whereupon telling her, that I hop'd, it had not been in vain to <hi>her,</hi> ſhe with much heartineſs replyed, <hi>No, I bleſs God it hath not.</hi> Another <hi>Neighbouring Miniſter,</hi> being call'd in the ſame morning to her, (at her requeſt) when he firſt came, and askt her how ſhe did, ſhe chearfully anſwered, <hi>very well; how can I be better? for I am going to my Heavenly Father.</hi> He then asking her, whether ſhe was willing to leave this World, ſhe replyed, <hi>Yes, moſt willing, for why ſhould I deſire to live any longer in it?</hi> He telling her, that ſhe had now a great work to do, ſhe anſwered, <hi>Yes, but I bleſs God, I am prepared for it, and I fear not Death, for Chriſt by his Blood hath taken out the ſting.</hi> The queſtion be<g ref="char:EOLhyphen"/>ing propos'd to her, whether ſhe would have him to pray with her, ſhe ſaid, <hi>Yes, I would have you to pray, that God would continue to lift up the light of his countenance upon me to the laſt, as he does now.</hi> And before he came away from her, ſhe prayed, <hi>that the Lord would be with him, and help him to preach ſo, as that the World might have no occaſion to jeer at Religion.</hi> She was much concerned for the Publick, and in
+<pb n="30" facs="tcp:63093:17"/>
+her Addreſſes and Ejaculations to God forgot not to mention <hi>Zion;</hi> but prayed <hi>for the downfal of thoſe three Enemies of the Church, the Turk, Antichriſt, and Satan.</hi> And as to her ſelf, ſhe prayed ſometimes in theſe words, <hi>Lord, chaſe away the Tempter, and ſuffer him not to darken my evidences now:</hi> And again ſhe prayed, <hi>That when he came to her as he did to Chriſt, he might find nothing in her.</hi>
+            </p>
+            <p>When ſhe was ſpeaking of the ſenſible decayes of her Bo<g ref="char:EOLhyphen"/>dy, and near approaches to the Grave, ſhe ſaid, <hi>I feel my ſelf as it were, like the Sun, going down into another World.</hi> And when ſome drink was offered her, ſhe cryed, <hi>I ſhall ſoon have done eating and drinking here, but am going to drink new Wine with Chriſt in my Fathers Kingdom.</hi> Her want of Sleep being ſpoken of by a ſtander by, ſhe ſaid, <hi>In a little while I ſhall ſleep in the Lord, which is better than any I can take here.</hi> When the ſharpneſs and violence of her pains was mentioned, ſhe ſaid, that <hi>indeed ſhe could never have been able to endure them, if God had not ſtrengthened her, and given in ſuch extraordinary comforts to her; for ſhe was never ſo ſenſible of his love, as when ſhe was in the greateſt miſery.</hi> And then ſhe added, <hi>But alas! what are my pains in compariſon of what my dear Saviour under<g ref="char:EOLhyphen"/>went, when he ſweat drops of Blood for my ſins?</hi> Some weeping loud in the room, ſhe beg'd them to forbear, ſaying, <hi>Why ſhould you cry for ſuch a lump of dirt? It will do me no good, but make me dye the harder, and I count it rather an Argument of hatred, than of love to me.</hi> When one ſpoke in her hearing of the troubles of the times, ſhe ſaid, <hi>God is hiding me in the hollow of his Hand, from the Beſom of Deſtruction, which may be coming.</hi>
+            </p>
+            <p>She very largely expreſt her earneſtneſs to be diſſolved; at ſeveral times, and more eſpecially, when ſhe found that her Death was deferred longer, than ſhe had ſuppoſed it would be; ſhe cryed out, <hi>I have taſted ſo much of the Joys of Heaven, that I loath the Earth: What ſhould I do in this Dunghil World, where I hear the Name of my God ſo often blaſ<g ref="char:EOLhyphen"/>phemed? I am weary of it, my Heart is ready to break, becauſe I may not go home to my Father. Oh! to have ſuch a ſenſe of</hi>
+               <pb n="31" facs="tcp:63093:17"/>
+               <hi>the Love of God, and then be put back again! I cannot bear it. I am ſure I ſhall go to Heaven: I wiſh that I might go quickly. I ſhall never enjoy my ſelf till I am there.</hi> One askt her whe<g ref="char:EOLhyphen"/>ther if ſhe might recover, ſhe could be willing to return again into this World; and ſhe anſwered with ſome vehe<g ref="char:EOLhyphen"/>mency, <hi>No.</hi> Yet notwithſtanding all this, ſhe was not ir<g ref="char:EOLhyphen"/>regularly impatient to be gone, as appeared by that paſſage, <hi>The Lord look upon me, and enable me to wait his time.</hi> She mingled the Praiſes of God with her Prayers to him, and was heard ſometimes to utter thoſe words, <hi>Grace, Grace.</hi>
+            </p>
+            <p>She gave very ſerious Counſels to thoſe that came to ſee her, and ſtood about her; ſhe ſpoke to her Brother and Si<g ref="char:EOLhyphen"/>ſters in a way ſutable to their Capacities, and amongſt other things, ſtrictly caution'd them againſt the <hi>Sin of Ly<g ref="char:EOLhyphen"/>ing,</hi> and adviſed them to be <hi>very dutiful and good Children to their Father and Mother, and to love as Brethren and Siſters.</hi> Taking her leave of one, whom ſhe bleſt God for, as an Inſtrument of bringing her to the Knowledge of God in her tender years; <hi>She ſaid I am going from you now, but hope to meet you again hereafter in Heaven.</hi> (And to the ſame purpoſe ſhe ſpoke to ſome others, of whoſe good Eſtate ſhe was per<g ref="char:EOLhyphen"/>ſwaded.) To another ſhe ſaid, <hi>Be ſure above all things to get an intereſt in Chriſt; for this is all which we have to do in this World.</hi> She counſelled and intreated all, to <hi>walk as be<g ref="char:EOLhyphen"/>comes the Goſpel, that they might not diſhonour God, nor provoke him to take the Goſpel from them.</hi> Her Mother asking her, what ſhe had to ſay to her, ſhe anſwered, <hi>I pray God to ſup<g ref="char:EOLhyphen"/>port you, and I hope, he will be your everlaſting ſupport.</hi> She had alwayes carryed her ſelf ſo well towards her Parents, that ſhe was able with a good Conſcience to tell her Father in this ſickneſs, <hi>that ſhe had never wilfully offended him in her whole Life.</hi> She was very conſcientious in obſerving of the Lords Day; and thoſe parts of it, which were not taken up in publick, or in Family-Worſhip, ſhe ſpent in her own private Retire<g ref="char:EOLhyphen"/>ments, the Fruit whereof abundantly appeared. She had made her Bible her dayly delightful Companion for ſuch a conſiderable time, and profited ſo much in it, that ſhe could recite</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
